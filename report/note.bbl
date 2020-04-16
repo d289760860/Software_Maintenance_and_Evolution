@@ -21,10 +21,22 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{Li2017}
-L.~Li, H.~Feng, W.~Zhuang, N.~Meng, and B.~Ryder, ``{CCLearner: A deep
-  learning-based clone detection approach},'' \emph{Proceedings - 2017 IEEE
-  International Conference on Software Maintenance and Evolution, ICSME 2017},
-  pp. 249--260, 2017.
+\bibitem{Min2019}
+H.~Min and Z.~L. Ping, ``{Survey on software clone detection research},''
+  \emph{ACM International Conference Proceeding Series}, pp. 9--16, 2019.
+
+\bibitem{Kamiya2002}
+T.~Kamiya, S.~Kusumoto, and K.~Inoue, ``{CCFinder},'' vol.~28, no.~7, p.~3,
+  2002.
+
+\bibitem{Jiang2007}
+L.~Jiang, G.~Misherghi, Z.~Su, and S.~Glondu, ``{DECKARD: Scalable and accurate
+  tree-based detection of code clones},'' \emph{Proceedings - International
+  Conference on Software Engineering}, no. 0520320, pp. 96--105, 2007.
+
+\bibitem{Yu2019}
+H.~Yu, W.~Lam, L.~Chen, G.~Li, T.~Xie, and Q.~Wang, ``{Neural detection of
+  semantic code clones via tree-based convolution},'' \emph{IEEE International
+  Conference on Program Comprehension}, vol. 2019-May, pp. 70--80, 2019.
 
 \end{thebibliography}
