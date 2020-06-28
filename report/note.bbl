@@ -34,6 +34,11 @@ L.~Jiang, G.~Misherghi, Z.~Su, and S.~Glondu, ``{DECKARD: Scalable and accurate
   tree-based detection of code clones},'' \emph{Proceedings - International
   Conference on Software Engineering}, no. 0520320, pp. 96--105, 2007.
 
+\bibitem{Kim2011}
+H.~Kim, Y.~Jung, S.~Kim, and K.~Yi, ``{MeCC: Memory comparison-based clone
+  detector},'' \emph{Proceedings - International Conference on Software
+  Engineering}, pp. 301--310, 2011.
+
 \bibitem{Yu2019}
 H.~Yu, W.~Lam, L.~Chen, G.~Li, T.~Xie, and Q.~Wang, ``{Neural detection of
   semantic code clones via tree-based convolution},'' \emph{IEEE International
